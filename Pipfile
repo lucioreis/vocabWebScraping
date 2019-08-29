@@ -4,8 +4,18 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+pylint = "*"
+pep8 = "*"
+pylinter = "*"
 
 [packages]
+beautifulsoup4 = "*"
+pyqt5 = "*"
+requests = "*"
+pylint = "*"
+pyqtwebengine = "*"
+pyqt = "*"
+pyqt5-6 = "*"
 
 [requires]
-python_version = "3.7-64"
+python_version = "3.6"
